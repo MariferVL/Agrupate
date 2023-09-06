@@ -6,9 +6,9 @@
 
 <br/>
     <br/>
-    <a href="https://github.com/MariferVL/Hites-Website" target="_blank"><strong>Docs Access »</strong></a>
+    <a href="https://github.com/MariferVL/Agrupate" target="_blank"><strong>Docs Access »</strong></a>
     <br/>
-     <a href="https://marifervl.github.io/Hites-Website/" target="_blank"><strong>Deployment Access »</strong></a>
+     <a href="https://replit.com/@marifervl/GroupsOrganizer" target="_blank"><strong>Deployment Access »</strong></a>
     <br/>
 
 
