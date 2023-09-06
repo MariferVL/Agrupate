@@ -1,8 +1,8 @@
 
 # Agrupate
 
-<b>Author</b>
-  [María-Fernanda Villalobos](https://github.com/MariferVL) <br/>
+<img width="330px" src="https://github.com/MariferVL/Agrupate/assets/99364311/4a381a56-a1ab-4310-82a3-993761872090">
+
 
 <br/>
     <br/>
